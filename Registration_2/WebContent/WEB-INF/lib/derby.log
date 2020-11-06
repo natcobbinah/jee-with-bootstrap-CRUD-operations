@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Wed Sep 02 09:06:29 PDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0174-4f91-cce2-000003318f98 
+on database directory C:\Users\STHIGWGFWB\Desktop\eclipse-java-oxygen-R-win32-x86_64\eclipse\db-derby-10.13.1.1-bin\lib\booksdb with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+Loaded from file:/C:/Users/STHIGWGFWB/Desktop/eclipse-java-oxygen-R-win32-x86_64/eclipse/db-derby-10.13.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_261-b12
+user.dir=C:\Users\STHIGWGFWB\Desktop\eclipse-java-oxygen-R-win32-x86_64\eclipse\db-derby-10.13.1.1-bin\lib
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Sep 02 09:10:39 PDT 2020: Shutting down Derby engine
+----------------------------------------------------------------
+Wed Sep 02 09:10:39 PDT 2020:
+Shutting down instance a816c00e-0174-4f91-cce2-000003318f98 on database directory C:\Users\STHIGWGFWB\Desktop\eclipse-java-oxygen-R-win32-x86_64\eclipse\db-derby-10.13.1.1-bin\lib\booksdb with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+----------------------------------------------------------------

@@ -1,0 +1,8 @@
+username= root
+password = " "
+
+run (StudentDatabase.sql) using mysql workbench first to get database active and running
+
+open the webproject using jee and enjoy
+
+Voila
